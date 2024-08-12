@@ -1,4 +1,4 @@
-# CheckIpUpdate
+# CheckIpUpdate-Cdnfly
 Check the IP address of your ddns domain name and write the Cdnfly forwarding IP address | 检查你的ddns域名的ip并写入Cdnfly转发ip
 
 主要用于解决Cdnfly的四层转发的源站ip无法填域名的问题（某些家里云可能需要填入使用了ddns的域名）
